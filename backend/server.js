@@ -10,6 +10,10 @@ const openai = new OpenAI({
 
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.send('connecting to server');
+});
+
 app.post('/generateCaption', async (req, res) => {
   try {
     const {imageUrl} = req.body;

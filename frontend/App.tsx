@@ -61,7 +61,7 @@ const App = () => {
 
       setLoading(true);
       const response = await axios.post(
-        'http://localhost:3000/generateCaption',
+        'https://aicaptionbackend.onrender.com/generateCaption',
         {
           imageUrl: `data:image/jpeg;base64,${photo.assets[0].base64}`,
         },
