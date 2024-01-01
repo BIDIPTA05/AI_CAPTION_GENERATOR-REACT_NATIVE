@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 const openai = new OpenAI({
-  apiKey: `${process.env.OPENAI_API_KEY}`,
+  apiKey: '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',
 });
 
 app.use(express.json());

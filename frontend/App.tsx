@@ -61,7 +61,7 @@ const App = () => {
 
       setLoading(true);
       const response = await axios.post(
-        'https://aicaptionbackend.onrender.com/generateCaption',
+        'http://localhost:3000/generateCaption',
         {
           imageUrl: `data:image/jpeg;base64,${photo.assets[0].base64}`,
         },
@@ -210,7 +210,6 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: 'red',
     textAlign: 'center',
-
     fontWeight: 'bold',
   },
 });
