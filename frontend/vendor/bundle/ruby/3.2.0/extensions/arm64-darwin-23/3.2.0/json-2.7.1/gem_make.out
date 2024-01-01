@@ -1,0 +1,16 @@
+current directory: /Users/bidiptasaikia/MY-CODE/PROJECTS/caption_generator/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/bidiptasaikia/MY-CODE/PROJECTS/caption_generator/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231230-39060-ey8mfg sitelibdir\=./.gem.20231230-39060-ey8mfg clean
+
+current directory: /Users/bidiptasaikia/MY-CODE/PROJECTS/caption_generator/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231230-39060-ey8mfg sitelibdir\=./.gem.20231230-39060-ey8mfg
+make: Nothing to be done for `all'.
+
+current directory: /Users/bidiptasaikia/MY-CODE/PROJECTS/caption_generator/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231230-39060-ey8mfg sitelibdir\=./.gem.20231230-39060-ey8mfg install
+
+current directory: /Users/bidiptasaikia/MY-CODE/PROJECTS/caption_generator/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231230-39060-ey8mfg sitelibdir\=./.gem.20231230-39060-ey8mfg clean
