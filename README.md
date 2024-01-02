@@ -1,5 +1,6 @@
 ## AI CAPTION GENERATOR USING OPENAI VISION API
 
-https://github.com/BIDIPTA05/AI_CAPTION_GENERATOR-REACT_NATIVE/blob/main/frontend/assets/a.png
+![a](https://github.com/BIDIPTA05/AI_CAPTION_GENERATOR-REACT_NATIVE/assets/76623158/acabbf37-57b3-4c6c-add0-5854c243564e)
 
-https://github.com/BIDIPTA05/AI_CAPTION_GENERATOR-REACT_NATIVE/blob/main/frontend/assets/b.png
+
+![b](https://github.com/BIDIPTA05/AI_CAPTION_GENERATOR-REACT_NATIVE/assets/76623158/fbec726f-55bb-4f9d-a038-e19459a66188)
